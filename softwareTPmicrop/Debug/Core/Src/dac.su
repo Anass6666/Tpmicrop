@@ -1,0 +1,5 @@
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_dac.h:1827:22:LL_DAC_SetSignedFormat	24	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_dac.h:1959:22:LL_DAC_DisableDMADoubleDataMode	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_dac.h:2159:22:LL_DAC_DisableTrigger	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_bus.h:451:22:LL_AHB2_GRP1_EnableClock	24	static
+../Core/Src/dac.c:28:6:MX_DAC1_Init	64	static
