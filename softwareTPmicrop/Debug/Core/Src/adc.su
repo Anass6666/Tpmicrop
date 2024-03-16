@@ -1,0 +1,10 @@
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:4471:22:LL_ADC_SetGainCompensation	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:5043:22:LL_ADC_REG_SetSequencerRanks	32	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:6319:22:LL_ADC_SetChannelSamplingTime	32	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:6490:22:LL_ADC_SetChannelSingleDiff	24	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:7192:22:LL_ADC_SetOverSamplingScope	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:7621:22:LL_ADC_DisableDeepPowerDown	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h:7654:22:LL_ADC_EnableInternalRegulator	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_rcc.h:1694:22:LL_RCC_SetADCClockSource	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_bus.h:451:22:LL_AHB2_GRP1_EnableClock	24	static
+../Core/Src/adc.c:28:6:MX_ADC1_Init	88	static
